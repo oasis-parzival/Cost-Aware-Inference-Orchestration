@@ -4,7 +4,7 @@
 
 [![CAIO Preview 1](Images/1.png)](https://pypi.org/project/caio-atharva/)
 
-**CAIO** is a high-performance optimization engine designed to drastically reduce LLM API costs. It employs a deterministic, multi-stage minification strategy that intelligently scrubs conversational noise ("fluff"), abbreviates natural language, and compresses code-centric prompts before transmission — ensuring you only pay for the tokens that matter.
+**CAIO** is a high-performance optimization engine designed to drastically reduce LLM API costs. It employs a deterministic, multi-stage minification strategy that intelligently scrubs conversational noise ("fluff"), abbreviates natural language, and compresses code-centric prompts before transmission, ensuring you only pay for the tokens that matter.
 
 ---
 
